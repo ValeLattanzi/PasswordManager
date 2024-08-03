@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfvL+af0HpM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valentino\\Documents\\Programacion\\PasswordManager\\PasswordManager\\PasswordManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentino\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
